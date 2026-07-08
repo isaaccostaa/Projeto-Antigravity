@@ -50,24 +50,3 @@ O projeto foi dividido em componentes para facilitar a organização e manutenç
 ## Objetivo
 
 O principal objetivo deste projeto foi desenvolver uma página de alta conversão para o nicho odontológico, valorizando a apresentação da profissional, melhorando a comunicação dos serviços e oferecendo um canal de contato rápido e acessível para novos pacientes.
-
-## Como executar o projeto
-
-Clone o repositório:
-
-Acesse a pasta do projeto:
-
-cd nome-do-projeto
-
-Instale as dependências:
-
-npm install
-
-Execute o projeto:
-
-npm run dev
-Build para produção
-npm run build
-
-```bash
-git clone URL_DO_REPOSITORIO
